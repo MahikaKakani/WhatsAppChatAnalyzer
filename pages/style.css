@@ -1,0 +1,71 @@
+div.css-6qob1r.e1fqkh3o3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border:1px solid green;
+}
+.css-18ni7ap{/*for header*/
+    z-index:0;
+}
+/*font styling of sidebar*/
+.block-container.css-1v7bkj4.egzxvld4 h1,p{
+    color:white;
+    font-size:27px;
+    text-decoration:underline;
+}
+.css-1vbkxwb.e16nr0p34 p{
+    color:black;
+}
+
+#navbarNav ul{
+    list-style:none;
+    padding:0;
+    margin:0;
+    float:right;
+}
+
+#navbarNav li a:hover{
+    background:#68dc57;
+    font-size:12px;
+    font-weight: 700;
+    color: #010101d9;
+    border-radius:10px;
+    border: white solid;
+}
+.block-container.css-1v7bkj4.egzxvld4 img{
+    border-radius: 50%;
+    width:150px;
+    margin-left: 30%;
+    display:center;
+}
+
+.block-container.css-ysnqb2.egzxvld4 img{
+    /* The logo Kritika-Mahika for normal and wide theme*/
+        display: center;
+        width: 150px;
+        border-radius: 50%;
+}
+
+div.css-6qob1r.e1fqkh3o3{
+    /* the sidebar style  */
+    /* background-color:white; */
+    /* background-image: url("https://i.pinimg.com/736x/09/40/12/094012b67915347ee7bfdc38c1065d71.jpg"); */
+    /* background-image: url("https://i.pinimg.com/originals/e9/8c/6f/e98c6f9dfa693c1ea657cb3cc504f78a.jpg"); */
+    background-image: url("https://www.fonewalls.com/wp-content/uploads/2019/10/Amoled-Background-Wallpaper-35-300x585.jpg");
+    background-position-x: right;
+    /* background-position-y:top; */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* border-radius: 150px; */
+    margin-bottom: 20px;
+}
+.main.css-uf99v8.egzxvld5, .main.css-uf99v8.egzxvld5{
+    /* background-color: white; */
+    width: 100%;
+    /* background-image: url("https://cdn.wallpapersafari.com/36/58/uVjHlN.jpg"); */
+    /* background-image: url("https://w0.peakpx.com/wallpaper/763/993/HD-wallpaper-whatsapp-g-background-doodle-pattern-patterns-thumbnail.jpg"); */
+    background-image: url("https://i.pinimg.com/736x/8c/98/99/8c98994518b575bfd8c949e91d20548b.jpg");
+    /* background-repeat: no-repeat; */
+}
+
+
+
+
+
